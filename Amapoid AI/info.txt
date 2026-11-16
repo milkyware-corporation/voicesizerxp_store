@@ -1,0 +1,5 @@
+empresa: Daicton Co., Ltd.
+generos: J-Pop, Eletronic.
+idiomas: JA
+versao: 1.0.0
+descricao: Energética e explosiva.
